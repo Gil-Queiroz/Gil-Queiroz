@@ -27,23 +27,10 @@ Apaixonado por transformar dados em decisões.
 ---
 
 ## 📌 Sobre mim
-```js
-const gil = {
-  atual: "Estagiário de TI — suporte e SQL",
-  estudando: ["SQL avançado", "Python", "Power BI"],
-  objetivo: "Analista de Dados",
-  proximo_passo: "publicar projetos reais no GitHub"
-}
-```
 
----
+Estudante de Ciência da Computação atuando como estagiário de TI no setor de logística. Atualmente, foco no desenvolvimento de soluções de dados para otimização de processos, utilizando SQL Server, Python (Pandas) e Power BI para criação de dashboards e análise de indicadores.
 
-## 🎯 Objetivos para 2026
-
-- [ ] Dominar SQL avançado (CTEs, Window Functions, Subqueries)
-- [ ] Aprender Pandas e visualização de dados com Python
-- [ ] Publicar 3 projetos de análise no GitHub
-- [ ] Conseguir minha primeira vaga como Analista de Dados
+Tenho experiência prática na estruturação de consultas em bancos de dados e automação de relatórios. Meu objetivo é consolidar minha carreira como Analista de Dados, combinando visão analítica e tecnologia para transformar dados em resultados estratégicos.
 
 ---
 
