@@ -1,48 +1,61 @@
-<div align="center">
+# Olá, eu sou o Gilberto 👋
 
-# Gil Queiroz
-
-**Estagiário de TI → Analista de Dados (em construção)**
-
-Trabalho com suporte técnico e SQL no dia a dia, enquanto construo minha base como analista de dados.
-Apaixonado por transformar dados em decisões.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gil-Queiroz)
-
-</div>
+Estagiário de TI em transição para a área de dados. Trabalho com SQL Server no dia a dia e estou construindo base sólida em Python e análise de dados para atuar como **Analista de Dados**.
 
 ---
 
-## 🧰 Stack de estudos
+## 🎯 Foco atual
 
-| Ferramenta | Nível |
-|---|---|
-| SQL | Intermediário |
-| Excel | Intermediário |
-| Power Automate | Intermediário |
-| Python | Básico |
-| Power BI | Básico |
+- Aprofundando **Python** para análise e automação de dados
+- Praticando **SQL avançado** (CTEs, window functions, subqueries)
+- Desenvolvendo projetos com **Pandas** e **Power BI**
+- Construindo portfólio com dados reais de operação logística
 
 ---
 
-## 📌 Sobre mim
+## 🛠️ Tecnologias que uso
 
-Estudante de Ciência da Computação atuando como estagiário de TI no setor de logística. Atualmente, foco no desenvolvimento de soluções de dados para otimização de processos, utilizando SQL Server, Python (Pandas) e Power BI para criação de dashboards e análise de indicadores.
+**Dados & Análise**
 
-Tenho experiência prática na estruturação de consultas em bancos de dados e automação de relatórios. Meu objetivo é consolidar minha carreira como Analista de Dados, combinando visão analítica e tecnologia para transformar dados em resultados estratégicos.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projetos em destaque
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gil-Queiroz&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-Queiroz&layout=compact&theme=default&hide_border=true" />
-</div>
+> Em construção — primeiro projeto público chegando em breve.
+
+<!-- Quando o Projeto 1 estiver pronto, substitua esse bloco por:
+
+### 📊 [Nome do Projeto](link)
+Breve descrição do problema de negócio resolvido.
+`Python` `Pandas` `SQL` `Power BI`
+
+-->
 
 ---
 
-<div align="center">
-  <sub>Construindo um projeto por vez 🚀</sub>
-</div>
+## 📈 GitHub Stats
+
+![Gilberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gil-Queiroz&show_icons=true&theme=dark&hide_border=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-Queiroz&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/))
+
+---
+
+*Visconde do Rio Branco, MG • Aberto a oportunidades em análise de dados*
