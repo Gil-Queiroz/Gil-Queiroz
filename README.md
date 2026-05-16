@@ -35,13 +35,7 @@ Estagiário de TI em transição para a área de dados. Trabalho com SQL Server 
 
 > Em construção — primeiro projeto público chegando em breve.
 
----
 
-## 📈 GitHub Stats
-
-![Gilberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gil-Queiroz&show_icons=true&theme=dark&hide_border=true&hide=stars&cache_seconds=1800)
-
----
 
 ## 📫 Contato
 
