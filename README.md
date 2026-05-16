@@ -35,26 +35,17 @@ Estagiário de TI em transição para a área de dados. Trabalho com SQL Server 
 
 > Em construção — primeiro projeto público chegando em breve.
 
-<!-- Quando o Projeto 1 estiver pronto, substitua esse bloco por:
-
-### 📊 [Nome do Projeto](link)
-Breve descrição do problema de negócio resolvido.
-`Python` `Pandas` `SQL` `Power BI`
-
--->
-
 ---
 
 ## 📈 GitHub Stats
 
-![Gilberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gil-Queiroz&show_icons=true&theme=dark&hide_border=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-Queiroz&layout=compact&theme=dark&hide_border=true)
+![Gilberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gil-Queiroz&show_icons=true&theme=dark&hide_border=true&hide=stars&cache_seconds=1800)
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/)
 
 ---
 
