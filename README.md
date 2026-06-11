@@ -1,46 +1,46 @@
-# Olá, eu sou o Gilberto 👋
+# Olá, eu sou o Gilberto Queiroz 👋
 
-Estagiário de TI em transição para a área de dados. Trabalho com SQL Server no dia a dia e estou construindo base sólida em Python e análise de dados para atuar como **Analista de Dados**.
+**Analista de TI & Desenvolvedor Backend Python em Evolução**
+
+Atuo na área de TI lidando diariamente com infraestrutura, automação de rotinas e gerenciamento de banco de dados (SQL Server). Estou utilizando essa bagagem prática para construir soluções robustas de engenharia de software, com foco total no ecossistema **Python e Django**.
+
+
+## 🎯 O que estou implementando (Foco Técnico Atual)
+
+Estou consolidando meus conhecimentos através de uma trilha de desenvolvimento moderna e focada no mercado:
+
+* **Web/MVC:** Desenvolvimento de aplicações estruturadas utilizando a arquitetura nativa do Django.
+* **APIs RESTful:** Criação de endpoints performáticos com **Django REST Framework (DRF)**.
+* **Segurança:** Implementação de autenticação e controle de acessos via **JWT**.
+* **DevOps Basics:** Containerização de aplicações com **Docker** e deploys práticos (PostgreSQL / Cloud AWS).
 
 ---
 
-## 🎯 Foco atual
+## 🛠️ Stack Tecnológica
 
-- Aprofundando **Python** para análise e automação de dados
-- Praticando **SQL avançado** (CTEs, window functions, subqueries)
-- Desenvolvendo projetos com **Pandas** e **Power BI**
-- Construindo portfólio com dados reais de operação logística
-
----
-
-## 🛠️ Tecnologias que uso
-
-**Dados & Análise**
-
+**Core Backend & Dados**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Ferramentas**
-
+**Ecossistema & Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos em Destaque (Construindo em Público)
 
-> Em construção — primeiro projeto público chegando em breve.
+> 🧱 **Portfólio em transição:** Estou atualmente documentando e subindo meus primeiros sistemas construídos com Django e DRF. Os códigos públicos estarão disponíveis nos repositórios pinados logo abaixo à medida que eu avançar nos módulos de API e Gestão de Estoque.
 
+---
 
-
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/)
 
 ---
-
-*Visconde do Rio Branco, MG • Aberto a oportunidades em análise de dados*
+*Visconde do Rio Branco, MG • Aberto a desafios como Desenvolvedor Python Júnior / Estágio Avançado*
