@@ -1,46 +1,36 @@
-# Olá, eu sou o Gilberto Queiroz 👋
+# Gilberto Queiroz
 
-**Analista de TI & Desenvolvedor Backend Python em Evolução**
+**Analista de TI · Python / Backend · Dados & IA Aplicada**
 
-Atuo na área de TI lidando diariamente com infraestrutura, automação de rotinas e gerenciamento de banco de dados (SQL Server). Estou utilizando essa bagagem prática para construir soluções robustas de engenharia de software, com foco total no ecossistema **Python e Django**.
+Visconde do Rio Branco, MG · Disponível para remoto
 
-
-## 🎯 O que estou implementando (Foco Técnico Atual)
-
-Estou consolidando meus conhecimentos através de uma trilha de desenvolvimento moderna e focada no mercado:
-
-* **Web/MVC:** Desenvolvimento de aplicações estruturadas utilizando a arquitetura nativa do Django.
-* **APIs RESTful:** Criação de endpoints performáticos com **Django REST Framework (DRF)**.
-* **Segurança:** Implementação de autenticação e controle de acessos via **JWT**.
-* **DevOps Basics:** Containerização de aplicações com **Docker** e deploys práticos (PostgreSQL / Cloud AWS).
+Responsável técnico por sistemas Python em produção numa cooperativa de
+logística. No dia a dia: automação de rotinas, SQL Server, Docker,
+Airflow e Power Automate. Direção atual: backend Python com foco em
+aplicações de dados e IA aplicada (LLMs, RAG, agentes).
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack
 
-**Core Backend & Dados**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+**Produção hoje**
+`Python` `SQL Server` `Streamlit` `Docker` `Apache Airflow`
+`Power Automate` `Microsoft 365` `Linux` `Git`
 
-**Ecossistema & Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Construindo**
+`FastAPI` `Django` `Django REST Framework` `LangChain` `RAG` `Agentes`
 
 ---
 
-## 📂 Projetos em Destaque (Construindo em Público)
+## Projetos
 
-> 🧱 **Portfólio em transição:** Estou atualmente documentando e subindo meus primeiros sistemas construídos com Django e DRF. Os códigos públicos estarão disponíveis nos repositórios pinados logo abaixo à medida que eu avançar nos módulos de API e Gestão de Estoque.
-
----
-
-## 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/)
+<!-- Em breve: agent SQL em linguagem natural sobre dataset público -->
+> Primeiro projeto público chegando — assistente que responde perguntas
+> em linguagem natural sobre dados, gerando SQL via LLM.
+> Stack: Python · DuckDB · Streamlit · API de LLM · Docker
 
 ---
-*Visconde do Rio Branco, MG • Aberto a desafios como Desenvolvedor Python Júnior / Estágio Avançado*
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-queiroz-213930339/)
