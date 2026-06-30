@@ -1,33 +1,56 @@
 # Gilberto Queiroz
 
-**Analista de TI · Python / Backend · Dados & IA Aplicada**
+**Analista de TI | Segurança da Informação | SQL Server | Python | Microsoft 365 | Linux**
 
-Visconde do Rio Branco, MG · Disponível para remoto
+Visconde do Rio Branco, MG
 
-Responsável técnico por sistemas Python em produção numa cooperativa de
-logística. No dia a dia: automação de rotinas, SQL Server, Docker,
-Airflow e Power Automate. Direção atual: backend Python com foco em
-aplicações de dados e IA aplicada (LLMs, RAG, agentes).
+Analista de TI com experiência em ambiente corporativo, atuando com suporte técnico, Microsoft 365, SQL Server, automação, sistemas internos e infraestrutura.
 
----
-
-## Stack
-
-**Produção hoje**
-`Python` `SQL Server` `Streamlit` `Docker` `Apache Airflow`
-`Power Automate` `Microsoft 365` `Linux` `Git`
-
-**Construindo**
-`FastAPI` `Django` `Django REST Framework` `LangChain` `RAG` `Agentes`
+Atualmente estou direcionando minha carreira para **Segurança da Informação**, com foco em **SOC, análise de vulnerabilidades, segurança ofensiva e futuramente Pentest**.
 
 ---
 
-## Projetos
+## Áreas de estudo
 
-<!-- Em breve: agent SQL em linguagem natural sobre dataset público -->
-> Primeiro projeto público chegando — assistente que responde perguntas
-> em linguagem natural sobre dados, gerando SQL via LLM.
-> Stack: Python · DuckDB · Streamlit · API de LLM · Docker
+- Linux
+- PowerShell
+- Redes TCP/IP
+- Kali Linux
+- Fundamentos de Pentest
+- SOC e análise de logs
+- Microsoft 365 Security
+- Labs e CTFs em ambientes autorizados
+
+---
+
+## Tecnologias
+
+`Microsoft 365` `SQL Server` `Python` `Linux` `Docker` `Git` `PowerShell` `Windows` `Redes`
+
+---
+
+## Em construção
+
+Estou organizando meus estudos e projetos práticos em Segurança da Informação.
+
+Próximos repositórios:
+
+- `cybersecurity-studies`
+- `ctf-writeups-cybersecurity`
+- `powershell-admin-scripts`
+- `python-security-tools`
+
+---
+
+## Objetivo atual
+
+Busco oportunidades em:
+
+- Segurança da Informação
+- SOC N1
+- Analista de Segurança Jr
+- Cybersecurity Jr
+- Pentest Jr
 
 ---
 
