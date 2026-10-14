@@ -1,60 +1,43 @@
 # Gilberto Júnior de Queiroz
 
-**Analista de TI | Infraestrutura | Cloud**
+**Analista de TI | Infraestrutura e Virtualização | Proxmox VE | Linux | Cloud Support (em evolução)**
 
-Analista de TI e estudante de Ciência da Computação, com atuação prática em infraestrutura corporativa, virtualização, servidores, Microsoft 365, redes, automação e sustentação de aplicações.
+Analista de TI e estudante de Ciência da Computação. Atuo na sustentação de infraestrutura corporativa, com foco em servidores, virtualização, redes e resolução de incidentes em ambientes de produção.
 
-## Atuação atual
+## Experiência prática
 
-- Administração de **Proxmox VE** em cluster com HA e **Proxmox Backup Server**
-- Administração de servidores **Windows Server** e **Linux**
-- Gestão de **Microsoft 365** em ambiente corporativo
-- Consultas e correções com **SQL Server / T-SQL**
-- Automação de tarefas com **PowerShell**
-- Sustentação de aplicações em **Docker**, **Python/Streamlit** e **Apache Airflow**
-- Troubleshooting de rede com **MikroTik** e fundamentos de TCP/IP
-- Rotinas de backup com integração ao **Microsoft Azure**
+- **Proxmox VE:** administração operacional e troubleshooting de máquinas virtuais em cluster de três nós.
+- **Servidores:** sustentação de ambientes Windows e Linux e diagnóstico de incidentes em serviços corporativos.
+- **Redes:** análise de conectividade TCP/IP e troubleshooting com MikroTik.
+- **Microsoft 365:** administração de usuários, licenças, grupos e permissões.
+- **Automação:** uso de PowerShell em rotinas de diagnóstico e administração.
+- **Aplicações:** sustentação de serviços com Docker, Python/Streamlit e Apache Airflow.
+- **Dados:** consultas T-SQL no SQL Server para análises e suporte às operações.
 
 ## Tecnologias
 
-| Área | Tecnologias |
+| Área | Ferramentas e conhecimentos |
 | --- | --- |
-| Virtualização e backup | Proxmox VE, Proxmox Backup Server |
-| Servidores | Linux, Windows Server |
-| Cloud e produtividade | Microsoft Azure, Microsoft 365 |
+| Infraestrutura e virtualização | Proxmox VE, Windows, Linux |
 | Redes | TCP/IP, MikroTik |
-| Automação | PowerShell, Bash, Python |
-| Dados | SQL Server, T-SQL |
-| Containers e versionamento | Docker, Git, GitHub |
-| Aplicações | Streamlit, Apache Airflow |
+| Administração corporativa | Microsoft 365 |
+| Automação e aplicações | PowerShell, Python, Docker, Apache Airflow |
+| Banco de dados | SQL Server, T-SQL |
+| Versionamento | Git e GitHub |
 
-## Em estudo
+## Em desenvolvimento
 
-- Administração de servidores Linux
-- Cloud e arquitetura de infraestrutura
-- Bash
-- Active Directory
-- Monitoramento com Zabbix
-- Docker e automação
-- Redes e troubleshooting
+Estou aprofundando meus conhecimentos em administração Linux, Bash, redes, Cloud Computing, automação de infraestrutura e segurança da informação. Meu objetivo é evoluir para posições de **Cloud Support, Infraestrutura Cloud e DevOps**.
 
-## Projetos
+## Portfólio prático
 
-Estou organizando este GitHub como portfólio técnico de **Infraestrutura e Cloud**. Os projetos serão adicionados conforme forem implementados, testados e documentados.
+Estou construindo laboratórios próprios, com documentação dos objetivos, comandos utilizados, testes, resultados e aprendizados.
 
-### Próximos projetos
+**Primeiro laboratório em preparação:** `linux-admin-lab` — administração de Linux, usuários, permissões, processos, serviços, logs e troubleshooting.
 
-- `linux-admin-lab` — administração Linux, usuários, permissões, serviços, logs e troubleshooting
-- laboratório de redes e sub-redes
-- automações com PowerShell e Bash
-- laboratório Docker
-- projetos práticos de Cloud
+> Os laboratórios serão realizados em ambientes de estudo. Não publicarei credenciais nem informações internas de ambientes corporativos.
 
 ## Contato
 
-- **LinkedIn:** [gilberto-queiroz-213930339](https://www.linkedin.com/in/gilberto-queiroz-213930339)
-- **E-mail:** [gilberto.queirozjr@outlook.com](mailto:gilberto.queirozjr@outlook.com)
-
----
-
-Meu objetivo é consolidar experiência prática em infraestrutura e avançar profissionalmente para **Cloud**, sempre documentando projetos que demonstrem conhecimento técnico aplicado.
+- [LinkedIn](https://www.linkedin.com/in/gilberto-queiroz-213930339/)
+- [E-mail](mailto:gilberto.queirozjr@outlook.com)
